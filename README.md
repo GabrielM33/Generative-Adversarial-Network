@@ -10,19 +10,19 @@ In this project, a Generative Adversarial Network (GAN) has been crafted using t
 
 **Discriminator:** On the other side is the Discriminator. Its mission is to sharpen its discerning eye to differentiate between real handwritten digits and those forged by the Generator. It learns to become an art critic, capable of spotting even the smallest of differences.
 
-**Training and Learning:**
+**Training and Learning**
 
 The heart of this project lies in the training phase. The Generator and Discriminator engage in a stage of learning. The Generator strives to create images that deceive the Discriminator, while the Discriminator hones its skills in spotting the fakes. This adversarial learning process is a captivating journey, resulting in a Generator that produces remarkable clones handwritten digits.
 
-**Realism and Creativity:**
+**Realism and Creativity**
 
 The final output of this project is a Generator that can create handwritten digits that look as they've been crafted by human hands. The generated digits are so realistic that they can easily blend into real datasets, making this project invaluable for applications like data augmentation, artistic expression, and more.
 
-**Applications:**
+**Applications**
 
 The applications of this project are many. It can be used for generating training data for machine learning models, creating art and design, or even as a tool for testing and validating image processing algorithms. The potential for this GAN is limiteless.
 
-**Innovation in AI:**
+**Innovation in AI**
 
 This project represents a significant step in the world of artificial intelligence and generative modeling. It showcases the power of GANs and the ability of AI to mimic and replicate human creativity, opening up a world of possibilities for industries ranging from computer vision to creative arts.
 
