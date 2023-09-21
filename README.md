@@ -1,4 +1,5 @@
-**Project Description:**
+**Project Description**
+
 In this project, a Generative Adversarial Network (GAN) has been crafted using the power of PyTorch. The primary goal of this project is to harness the capabilities of artificial intelligence to generate realistic handwritten digits. This innovation represents a significant advancement in the realm of computer vision and generative modeling.
 
 **Key Components**
