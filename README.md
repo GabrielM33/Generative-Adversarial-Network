@@ -1,1 +1,1 @@
-# Generative-Adversarial-Network
+In this project, a Deep Convolutional Generative Adversarial Network was built using PyTorch to generate handwritten digits. The product is a generator that learns to generate images that look real and a discriminator that learns to tell real images apart from fakes. 
